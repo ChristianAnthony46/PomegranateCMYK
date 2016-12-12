@@ -1,4 +1,4 @@
-from ImageLibrary.PIL import Image
+from PIL import Image
 class Channel:
 
     def __init__(self, channelLabel, size):
