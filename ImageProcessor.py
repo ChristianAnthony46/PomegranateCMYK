@@ -1,4 +1,4 @@
-from PIL import Image
+from ImageLibrary.PIL import Image
 from Channel import *
 import os
 

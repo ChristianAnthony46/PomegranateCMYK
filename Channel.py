@@ -1,5 +1,4 @@
-from PIL import Image
-
+from ImageLibrary.PIL import Image
 class Channel:
 
     def __init__(self, channelLabel, size):
@@ -9,5 +8,4 @@ class Channel:
         self.pixelMap = self.channel.load()
 
     def save(self, filename):
-
         self.channel.save(filename)
