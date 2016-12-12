@@ -1,3 +1,6 @@
 [submodule "PIL"]
 	path = PIL
 	url = https://github.com/python-pillow/Pillow
+[submodule "ImageLibrary"]
+	path = ImageLibrary
+	url = https://github.com/python-pillow/Pillow.git
